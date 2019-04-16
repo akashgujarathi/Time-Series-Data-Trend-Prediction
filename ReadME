@@ -1,0 +1,11 @@
+Program was tested on remote.cs.binghamton.edu
+
+Steps to execute the program.
+
+Step 1] run make (make)
+Step 2] A output.txt file will be generated.
+
+--------------------------------------------------------------------------
+External Jar used: common-math.jar 
+/src/timeSeriesPredection/DataPredectionAlgorithm.java is the source file
+--------------------------------------------------------------------------
